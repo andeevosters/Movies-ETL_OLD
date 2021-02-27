@@ -1,3 +1,10 @@
+# Files
+config.py
+ETL_create_databasewrong.ipynb
+In-Class-Practice/
+Mod8.ipynb
+Module_8_Notes
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
